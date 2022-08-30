@@ -1,2 +1,3 @@
 # html-site
-simple html site, useful starting point when setting up static hosting pipeline on AWS
+
+Need a simple html site to test a dev-ops workflow or CodePipeline deployment? This is it. 
